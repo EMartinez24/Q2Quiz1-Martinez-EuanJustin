@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+}
+
+img {
+    width: 100px;
+}
+
+.landscape-img {
+    width: 150px;
+}
+
+.square-img {
+    width: 150px;
+}
+
+footer {
+    background-color: #252525;
+    color: white;
+}
